@@ -1,0 +1,6 @@
+# important
+*.py
+utils/
+saved/server.json
+saved/config.json
+*.txt
