@@ -19,7 +19,7 @@ We implement cryptographic security measures to protect your data through our se
 We may update this Privacy Policy from time to time. We will notify you of any significant changes.   
 
 Contact Us: 
-# If you have any questions about this Privacy Policy, please contact us at [your email address].  
+# If you have any questions about this Privacy Policy, please contact us @ [Email](mailto:btunnel084@gmail.com).  
 
 # End-User License Agreement (EULA):
 # License Grant: 
