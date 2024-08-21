@@ -2,47 +2,63 @@
 
 Warp Tunnel Plus respects your privacy and is committed to protecting your personal information. This document outlines how we collect, use, and share your data when you use our app, as well as the terms governing your use of Warp Tunnel Plus.
 
-# Privacy Policy:
+# Privacy Policy
 
 Information We Collect: We do not collect any personally identifiable information (PII) such as your name, email address, or location. To provide our VPN service, we use VPNService, a system service provided by Android to create a secure network connection. We may collect anonymous usage data, such as app usage statistics, to improve our service.
 
-# How We Use Your Information: 
+# How We Use Your Information
+
 Anonymous usage data is used solely for internal analysis and to enhance user experience. We do not share your personal information with third parties for advertising or any other purposes.
 
-# Your Rights: 
+# Your Rights
+
 You have the right to access, correct, or delete your data. However, as we do not collect personal information, this right is not applicable in this case.
 
-# Data Security: 
-We prioritize data security by employing robust cryptographic measures. Your data is transmitted and stored securely, ensuring it remains private and confidential. We adhere to a strict no-logs policy, meaning we do not collect, log, or share any of your personal information.
+# Data Security
 
-# Changes to This Policy:
+We prioritize data security by employing robust cryptographic measures. Your data is transmitted securely, ensuring it remains private and confidential. We adhere to a strict no-logs policy, meaning we do not collect, log, or share any of your personal information.
+
+# Changes to This Policy
+
 We may update this Privacy Policy from time to time. We will notify you of any significant changes.   
 
-Contact Us: 
-# If you have any questions about this Privacy Policy, please contact us @ [Email](mailto:btunnel084@gmail.com).  
+# Contact Us
 
-# End-User License Agreement (EULA):
-# License Grant: 
+If you have any questions about this Privacy Policy, please contact us [Email](mailto:btunnel084@gmail.com).  
+
+# End-User License Agreement (EULA)
+
+# License Grant
+
 We grant you a non-exclusive, non-transferable license to use Warp Tunnel Plus on your compatible device.
 
-# VPNService: 
-Warp Tunnel Plus utilizes the VPNService provided by Android to establish a secure network connection.
+# VPNService
 
-# Prohibited Activities: 
+Warp Tunnel Plus utilizes the VPNService provided by Android to establish a secure network connection, which servers as the core function of our application.
+
+# Prohibited Activities 
+
 You agree not to reverse engineer, decompile, or modify the app.
 
-# Disclaimer of Warranties: 
+# Disclaimer of Warranties
+
 The app is provided "as is" without warranties of any kind.
-# Limitation of Liability: 
+
+# Limitation of Liability
+
 Our liability for any damages is limited to the extent permitted by law.
     
 # Third-Party Libraries: 
 Warp Tunnel Plus incorporates the following third-party libraries:
 
 #  1. Tun2Socks: Copyright © 2009, Ambroz Bizjak (ambrop7@gmail.com). All rights reserved.
-#  1. Pdnsd: Copyright © 2001-2007, Thomas Moestl. All rights reserved.
+
+#  2. Pdnsd: Copyright © 2001-2007, Thomas Moestl. All rights reserved.
+
 #  3. Hysteria: Copyright © 2021, The Hysteria Project Authors. All rights reserved.
+
 #  4. Trilead SSH: Copyright © 2007-2011, Trilead AG. All rights reserved.
+
 #  5. SVGRepo: Credits for icon assets. These libraries are subject to their respective licenses.
 
 # By using Warp Tunnel Plus, you agree to the terms of this Privacy Policy and EULA.
