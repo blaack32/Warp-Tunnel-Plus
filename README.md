@@ -13,7 +13,7 @@ Anonymous usage data is used solely for internal analysis and to enhance user ex
 You have the right to access, correct, or delete your data. However, as we do not collect personal information, this right is not applicable in this case.
 
 # Data Security: 
-We implement cryptographic security measures to protect your data through our servers. 
+We prioritize data security by employing robust cryptographic measures. Your data is transmitted and stored securely, ensuring it remains private and confidential. We adhere to a strict no-logs policy, meaning we do not collect, log, or share any of your personal information.
 
 # Changes to This Policy:
 We may update this Privacy Policy from time to time. We will notify you of any significant changes.   
@@ -38,6 +38,7 @@ Our liability for any damages is limited to the extent permitted by law.
     
 # Third-Party Libraries: 
 Warp Tunnel Plus incorporates the following third-party libraries:
+
 #  1. Tun2Socks: Copyright © 2009, Ambroz Bizjak (ambrop7@gmail.com). All rights reserved.
 #  1. Pdnsd: Copyright © 2001-2007, Thomas Moestl. All rights reserved.
 #  3. Hysteria: Copyright © 2021, The Hysteria Project Authors. All rights reserved.
