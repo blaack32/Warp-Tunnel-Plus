@@ -18,6 +18,9 @@ You have the right to access, correct, or delete your data. However, as we do no
 
 We prioritize data security by employing robust cryptographic measures. Your data is transmitted securely, ensuring it remains private and confidential. We adhere to a strict no-logs policy, meaning we do not collect, log, or share any of your personal information.
 
+# Advertisement policy
+To support our platform, we display ads. When you watch a reward ad, you'll receive an additional 3 hours of access to our features. Engaging with ads is optional but helps us keep the service running and provides you with extra benefits.
+
 # Changes to This Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any significant changes.   
