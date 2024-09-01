@@ -6,6 +6,8 @@ Warp Tunnel Plus respects your privacy and is committed to protecting your perso
 
 Information We Collect: We do not collect any personally identifiable information (PII) such as your name, email address, or location. To provide our VPN service, we use VPNService, a system service provided by Android to create a secure network connection. We may collect anonymous usage data, such as app usage statistics, to improve our service.
 
+# Advertisement policy
+To support our platform, we display ads. When you watch a reward ad, you'll receive an additional 3 hours of access to our features.
 # How We Use Your Information
 
 Anonymous usage data is used solely for internal analysis and to enhance user experience. We do not share your personal information with third parties for advertising or any other purposes.
